@@ -1,0 +1,5 @@
+D:\WI_Studium\WI_SS2020\Komponentenbasierte Anwendungsentwicklung\MQ_MYSQL\MessageQueueHandler\MessageQueueHandler\bin\Debug\MessageQueueHandler.dll
+D:\WI_Studium\WI_SS2020\Komponentenbasierte Anwendungsentwicklung\MQ_MYSQL\MessageQueueHandler\MessageQueueHandler\bin\Debug\MessageQueueHandler.pdb
+D:\WI_Studium\WI_SS2020\Komponentenbasierte Anwendungsentwicklung\MQ_MYSQL\MessageQueueHandler\MessageQueueHandler\obj\Debug\MessageQueueHandler.csprojAssemblyReference.cache
+D:\WI_Studium\WI_SS2020\Komponentenbasierte Anwendungsentwicklung\MQ_MYSQL\MessageQueueHandler\MessageQueueHandler\obj\Debug\MessageQueueHandler.dll
+D:\WI_Studium\WI_SS2020\Komponentenbasierte Anwendungsentwicklung\MQ_MYSQL\MessageQueueHandler\MessageQueueHandler\obj\Debug\MessageQueueHandler.pdb

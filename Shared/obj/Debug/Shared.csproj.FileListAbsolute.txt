@@ -1,0 +1,14 @@
+D:\WI_Studium\WI_SS2020\Komponentenbasierte Anwendungsentwicklung\MQ_MYSQL\MessageQueueHandler\Shared\obj\Debug\Shared.csprojAssemblyReference.cache
+D:\WI_Studium\WI_SS2020\Komponentenbasierte Anwendungsentwicklung\MQ_MYSQL\MessageQueueHandler\Shared\bin\Debug\Shared.dll
+D:\WI_Studium\WI_SS2020\Komponentenbasierte Anwendungsentwicklung\MQ_MYSQL\MessageQueueHandler\Shared\bin\Debug\Shared.pdb
+D:\WI_Studium\WI_SS2020\Komponentenbasierte Anwendungsentwicklung\MQ_MYSQL\MessageQueueHandler\Shared\bin\Debug\BouncyCastle.Crypto.dll
+D:\WI_Studium\WI_SS2020\Komponentenbasierte Anwendungsentwicklung\MQ_MYSQL\MessageQueueHandler\Shared\bin\Debug\Google.Protobuf.dll
+D:\WI_Studium\WI_SS2020\Komponentenbasierte Anwendungsentwicklung\MQ_MYSQL\MessageQueueHandler\Shared\bin\Debug\MySql.Data.dll
+D:\WI_Studium\WI_SS2020\Komponentenbasierte Anwendungsentwicklung\MQ_MYSQL\MessageQueueHandler\Shared\bin\Debug\Renci.SshNet.dll
+D:\WI_Studium\WI_SS2020\Komponentenbasierte Anwendungsentwicklung\MQ_MYSQL\MessageQueueHandler\Shared\bin\Debug\Ubiety.Dns.Core.dll
+D:\WI_Studium\WI_SS2020\Komponentenbasierte Anwendungsentwicklung\MQ_MYSQL\MessageQueueHandler\Shared\bin\Debug\Google.Protobuf.xml
+D:\WI_Studium\WI_SS2020\Komponentenbasierte Anwendungsentwicklung\MQ_MYSQL\MessageQueueHandler\Shared\bin\Debug\MySql.Data.xml
+D:\WI_Studium\WI_SS2020\Komponentenbasierte Anwendungsentwicklung\MQ_MYSQL\MessageQueueHandler\Shared\bin\Debug\Renci.SshNet.xml
+D:\WI_Studium\WI_SS2020\Komponentenbasierte Anwendungsentwicklung\MQ_MYSQL\MessageQueueHandler\Shared\obj\Debug\Shared.csproj.CopyComplete
+D:\WI_Studium\WI_SS2020\Komponentenbasierte Anwendungsentwicklung\MQ_MYSQL\MessageQueueHandler\Shared\obj\Debug\Shared.dll
+D:\WI_Studium\WI_SS2020\Komponentenbasierte Anwendungsentwicklung\MQ_MYSQL\MessageQueueHandler\Shared\obj\Debug\Shared.pdb
