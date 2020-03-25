@@ -7,4 +7,4 @@ Basically just playing around, creating Objects (in this case Persons with Super
 
 Thats basically it, just for reference, if I ever need one of those things in the future again.
 
-![alt text](images\Message_Queue_vor_ausführen.PNG)
+![alt text](.\images\Message_Queue_vor_ausführen.PNG)
